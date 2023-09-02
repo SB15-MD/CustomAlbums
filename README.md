@@ -9,13 +9,14 @@ Check out the Muse Dash Modding Community Discord server for more information on
 
 https://discord.gg/mdmc
 
-The current version of the mod is guaranteed to function on Muse Dash 2.3.0 (Virtual Idol Production).  
+The current version of the mod is guaranteed to function on Muse Dash 3.7.0 (Neon Abyss).  
 MelonLoader 0.5.x is required.
 
 ### Branch
 `master` Current stable release.  
 `2.0` Archived version from before the game transitioned to IL2CPP. No longer supported.  
 `3.0` Current working branch.  
+`3.0-dev` Development branch for current working branch.
 `4.0` Work-in-progress overhaul.
 
 ### How to build v3.0+
