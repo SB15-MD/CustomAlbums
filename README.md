@@ -1,9 +1,8 @@
-# Muse Dash Custom Albums Mod
-
 # IMPORTANT NOTICE
 This is a development branch for the CustomAlbums mod, and thus things may be broken.  
 Build and use at your own risk.
 
+# Muse Dash Custom Albums Mod
 This mod adds the ability to play custom-designed charts in Muse Dash!  
 Do note that out of fairness to the developers, it is still required to own the "Just as Planned" DLC in order to play charts.  
 Check out the Muse Dash Modding Community Discord server for more information on how to install, create, or compete on leaderboards:
