@@ -1,4 +1,5 @@
 # Muse Dash Custom Albums Mod
+# NOTE: All development has been moved to [this repository](https://github.com/MDMods/CustomAlbums). This repo is no longer maintained.
 
 This mod adds the ability to play custom-designed charts in Muse Dash!  
 Do note that out of fairness to the developers, it is still required to own the "Just as Planned" DLC in order to play charts.  
